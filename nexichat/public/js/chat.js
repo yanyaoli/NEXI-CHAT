@@ -1611,11 +1611,6 @@ function switchChannel(item) {
     
     const messageInputContainer = document.querySelector('.message-input-container');
     
-    if (currentChannel === 'Channel105') {
-        fileUploadBtn.style.display = 'inline-block';
-    } else {
-        fileUploadBtn.style.display = 'none';
-    }
     messageInputContainer.style.display = 'flex';
     
     loadMessages(currentChannel);
