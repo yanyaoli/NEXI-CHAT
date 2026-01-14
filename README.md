@@ -10,6 +10,8 @@ NEXI CHAT 是一个基于 Node.js 开发的多频道聊天应用，采用现代�
 ## 共创合作人
 - 绫(Ling)：前后端维护，新功能研发
 - GitHub：https://github.com/3199807646
+- 糊包蛋
+- GitHub：https://github.com/yanyaoli
 
 ## 技术栈
 - **后端**：Node.js + Express + Socket.io
